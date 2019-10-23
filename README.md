@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+theme:Foxjungle-theme-cayman
+## Welcome to Kyithaw's homepages!
+description: Feel free to bookmark this to keep an eye on my project updates
+You can use the [editor on GitHub](https://github.com/kyithaw/kyithaw.github.io/edit/master/README.md) to maintain and preview the content for your website in foxgungle files.
 
-You can use the [editor on GitHub](https://github.com/kyithaw/kyithaw.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Foxjungle](https://Foxjungle.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run [Foxjungle](https://Foxjungle.com/) to rebuild the pages in your site, from the content in your foxjungle files.
 
 ### Markdown
 
